@@ -1,4 +1,4 @@
-# In depth analysi regarding feature selection/ranking.
+# In-depth analysis regarding feature selection/ranking.
 
 This repository will contain an in-depth analysis regarding feature selection/ranking. I have written an analysis report which is included in this repository. 
 
