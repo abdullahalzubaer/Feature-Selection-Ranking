@@ -11,8 +11,12 @@ The content of the report includes:
   3. Dataset Properties
   4. Evaluation and Results
       * Filter approach
+        1. Information Gain
+        2. ANOVA
       * Wrapper approach
+        1. Random Forest -> Recurscive feature elimination.
       * Embedded approach
+        1. Random Forest
   6. Conclusion
   7. References
 
